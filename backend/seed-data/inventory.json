@@ -1,0 +1,44 @@
+{
+  "inventory": [
+    {
+      "id": "item_001",
+      "itemName": "Steel Plate A4",
+      "category": "Metal Sheets",
+      "supplier": "Supplier Co Ltd",
+      "quantity": 150,
+      "unitPrice": 45.5
+    },
+    {
+      "id": "item_002",
+      "itemName": "Plastic Bags 5kg",
+      "category": "Packaging",
+      "supplier": "Packaging Plus",
+      "quantity": 500,
+      "unitPrice": 2.75
+    },
+    {
+      "id": "item_003",
+      "itemName": "Aluminum Sheets",
+      "category": "Metal Sheets",
+      "supplier": "Metal Industries",
+      "quantity": 75,
+      "unitPrice": 55.0
+    },
+    {
+      "id": "item_004",
+      "itemName": "Cardboard Boxes",
+      "category": "Packaging",
+      "supplier": "Box Makers Inc",
+      "quantity": 1200,
+      "unitPrice": 1.25
+    },
+    {
+      "id": "item_005",
+      "itemName": "Copper Wire (1kg)",
+      "category": "Electrical",
+      "supplier": "ElectroSupply",
+      "quantity": 120,
+      "unitPrice": 15.0
+    }
+  ]
+}

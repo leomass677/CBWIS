@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "trans_001",
+      "itemId": "item_001",
+      "itemName": "Steel Plate A4",
+      "transactionType": "IN",
+      "quantity": 100,
+      "performedBy": "admin@example.com"
+    },
+    {
+      "id": "trans_002",
+      "itemId": "item_002",
+      "itemName": "Plastic Bags 5kg",
+      "transactionType": "IN",
+      "quantity": 300,
+      "performedBy": "admin@example.com"
+    },
+    {
+      "id": "trans_003",
+      "itemId": "item_001",
+      "itemName": "Steel Plate A4",
+      "transactionType": "OUT",
+      "quantity": 50,
+      "performedBy": "staff@example.com"
+    }
+  ]
+}
